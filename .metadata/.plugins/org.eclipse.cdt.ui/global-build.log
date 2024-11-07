@@ -1,0 +1,7 @@
+11:54:25 **** Incremental Build of configuration Debug for project 007Modbus ****
+make -j12 all 
+arm-none-eabi-size   007Modbus.elf 
+   text	   data	    bss	    dec	    hex	filename
+  27280	    184	   1976	  29440	   7300	007Modbus.elf
+Finished building: default.size.stdout
+ 
